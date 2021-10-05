@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/css/layouts/HeaderStyles.css"],"names":[],"mappings":"AAAA,QACI,YAAa,CACb,6BACJ,CACA,UACI,aACJ","file":"main.3578b7ac.chunk.css","sourcesContent":[".header {\n    display: flex;\n    justify-content: space-between;\n}\n.header a {\n    margin: 0 10px;\n}"]}

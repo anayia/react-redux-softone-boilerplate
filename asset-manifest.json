@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/anayia/react-redux-softone-boilerplate/static/css/main.3578b7ac.chunk.css",
+    "main.js": "/anayia/react-redux-softone-boilerplate/static/js/main.796be015.chunk.js",
+    "main.js.map": "/anayia/react-redux-softone-boilerplate/static/js/main.796be015.chunk.js.map",
+    "runtime-main.js": "/anayia/react-redux-softone-boilerplate/static/js/runtime-main.188247d0.js",
+    "runtime-main.js.map": "/anayia/react-redux-softone-boilerplate/static/js/runtime-main.188247d0.js.map",
+    "static/js/2.af7212ba.chunk.js": "/anayia/react-redux-softone-boilerplate/static/js/2.af7212ba.chunk.js",
+    "static/js/2.af7212ba.chunk.js.map": "/anayia/react-redux-softone-boilerplate/static/js/2.af7212ba.chunk.js.map",
+    "index.html": "/anayia/react-redux-softone-boilerplate/index.html",
+    "static/css/main.3578b7ac.chunk.css.map": "/anayia/react-redux-softone-boilerplate/static/css/main.3578b7ac.chunk.css.map",
+    "static/js/2.af7212ba.chunk.js.LICENSE.txt": "/anayia/react-redux-softone-boilerplate/static/js/2.af7212ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.188247d0.js",
+    "static/js/2.af7212ba.chunk.js",
+    "static/css/main.3578b7ac.chunk.css",
+    "static/js/main.796be015.chunk.js"
+  ]
+}
